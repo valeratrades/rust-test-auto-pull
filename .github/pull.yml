@@ -1,5 +1,5 @@
 version: "1"
 rules:
   - base: master
-    upstream: rust-lang/rust:master
+    upstream: rust-lang:master
     mergeMethod: hardreset
